@@ -1,0 +1,13 @@
+{
+  "type": "index-branch",
+  "category": "context",
+  "files": [
+    {
+      "title": "Context Overview",
+      "file": "plans/context/overview.md",
+      "tags": ["context"],
+      "aliases": [],
+      "context_priority": "high"
+    }
+  ]
+}
