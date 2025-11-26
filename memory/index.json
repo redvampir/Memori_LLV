@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/memory_001_first_awareness.json",
+    "type": "lesson",
+    "title": "Memory 001 First Awareness",
+    "description": "",
+    "lastModified": "2025-11-26T10:27:31.351Z"
+  }
+]
