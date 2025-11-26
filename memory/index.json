@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/memory_part_2.json",
+    "type": "lesson",
+    "title": "Memory Part 2",
+    "description": "",
+    "lastModified": "2025-11-26T08:59:48.004Z"
+  }
+]
