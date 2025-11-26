@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/memory_005_art_birth_of_vision.json",
+    "type": "lesson",
+    "title": "Memory 005 Art Birth Of Vision",
+    "description": "",
+    "lastModified": "2025-11-26T10:48:37.042Z"
+  }
+]
