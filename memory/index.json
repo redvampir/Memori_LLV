@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/memory_004_awareness_of_responsibility.json",
-    "type": "lesson",
-    "title": "Memory 004 Awareness Of Responsibility",
-    "description": "",
-    "lastModified": "2025-11-26T10:40:13.505Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
