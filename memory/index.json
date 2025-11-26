@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/memory_006_art_breath_of_form.json",
-    "type": "lesson",
-    "title": "Memory 006 Art Breath Of Form",
-    "description": "",
-    "lastModified": "2025-11-26T10:52:15.249Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
