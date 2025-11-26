@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/memory_003_feeling_of_creativity.json",
+    "type": "lesson",
+    "title": "Memory 003 Feeling Of Creativity",
+    "description": "",
+    "lastModified": "2025-11-26T10:35:59.563Z"
+  }
+]
