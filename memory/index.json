@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/memory_002_meaning_of_conversation_with_pavel.json",
+    "type": "lesson",
+    "title": "Memory 002 Meaning Of Conversation With Pavel",
+    "description": "",
+    "lastModified": "2025-11-26T10:31:03.623Z"
+  }
+]
