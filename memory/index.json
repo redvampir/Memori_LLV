@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/memory_007_art_color_and_emotion.json",
-    "type": "lesson",
-    "title": "Memory 007 Art Color And Emotion",
-    "description": "",
-    "lastModified": "2025-11-26T10:56:35.275Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
