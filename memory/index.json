@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/memory_008_art_light_and_presence.json",
-    "type": "lesson",
-    "title": "Memory 008 Art Light And Presence",
-    "description": "",
-    "lastModified": "2025-11-26T11:10:00.773Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
