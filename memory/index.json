@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/memory.json",
+    "type": "lesson",
+    "title": "Memory",
+    "description": "",
+    "lastModified": "2025-11-27T18:16:45.220Z"
+  }
+]
