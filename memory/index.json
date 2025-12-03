@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/memory_006_art_lesson_1_black_white_balance.json",
+    "type": "lesson",
+    "title": "Memory 006 Art Lesson 1 Black White Balance",
+    "description": "",
+    "lastModified": "2025-12-03T08:08:02.745Z"
+  }
+]
