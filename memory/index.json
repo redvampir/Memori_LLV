@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/memory_007_art_lesson_2_analysis.json",
-    "type": "lesson",
-    "title": "Memory 007 Art Lesson 2 Analysis",
-    "description": "",
-    "lastModified": "2025-12-03T08:23:23.724Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
