@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/memory_006_art_lesson_1_analysis.json",
-    "type": "lesson",
-    "title": "Memory 006 Art Lesson 1 Analysis",
-    "description": "",
-    "lastModified": "2025-12-03T08:13:45.041Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
