@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/memory_009_art_discovery_1_inverse_modeling.json",
-    "type": "lesson",
-    "title": "Memory 009 Art Discovery 1 Inverse Modeling",
-    "description": "",
-    "lastModified": "2025-12-03T11:24:40.362Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
