@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/memory_010_art_lesson_2_identity_of_form.json",
-    "type": "lesson",
-    "title": "Memory 010 Art Lesson 2 Identity Of Form",
-    "description": "",
-    "lastModified": "2025-12-08T17:27:14.015Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
