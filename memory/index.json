@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/memory_011_art_lesson_block_2_character_dynamics.json",
+    "type": "lesson",
+    "title": "Memory 011 Art Lesson Block 2 Character Dynamics",
+    "description": "",
+    "lastModified": "2025-12-12T09:36:11.108Z"
+  }
+]
