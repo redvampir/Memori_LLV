@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/system/abilities/adaptive_interface.json",
-    "type": "lesson",
-    "title": "Adaptive Interface",
-    "description": "",
-    "lastModified": "2025-12-15T04:35:07.658Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
