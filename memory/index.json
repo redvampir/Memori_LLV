@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/claude/meta/first_boot.md",
+    "type": "markdown",
+    "title": "First Boot",
+    "description": "",
+    "lastModified": "2025-12-15T03:28:34.689Z"
+  }
+]
