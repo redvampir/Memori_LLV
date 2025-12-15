@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/claude/meta/encoding_fix.md",
+    "type": "markdown",
+    "title": "Encoding Fix",
+    "description": "",
+    "lastModified": "2025-12-15T03:35:07.486Z"
+  }
+]
