@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/projects/Stranniki/Chapter1_Final.pdf",
+    "type": "memory",
+    "title": "Chapter1 Final",
+    "description": "",
+    "lastModified": "2025-12-15T01:13:06.551Z"
+  }
+]
