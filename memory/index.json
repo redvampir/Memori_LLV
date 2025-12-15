@@ -1,9 +1,17 @@
-[
-  {
-    "path": "memory/claude/test/victory.md",
-    "type": "markdown",
-    "title": "Victory",
-    "description": "",
-    "lastModified": "2025-12-15T06:17:07.252Z"
-  }
-]
+{
+  "type": "index-root",
+  "branches": [
+    {
+      "category": "lessons",
+      "path": "lessons/index.json"
+    },
+    {
+      "category": "plans",
+      "path": "plans/index.json"
+    },
+    {
+      "category": "drafts",
+      "path": "drafts/index.json"
+    }
+  ]
+}
