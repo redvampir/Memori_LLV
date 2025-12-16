@@ -1,17 +1,9 @@
-{
-  "type": "index-root",
-  "branches": [
-    {
-      "category": "lessons",
-      "path": "lessons/index.json"
-    },
-    {
-      "category": "plans",
-      "path": "plans/index.json"
-    },
-    {
-      "category": "drafts",
-      "path": "drafts/index.json"
-    }
-  ]
-}
+[
+  {
+    "path": "memory/correspondence/Neira_Correspondence_006.json",
+    "type": "lesson",
+    "title": "Neira Correspondence 006",
+    "description": "",
+    "lastModified": "2025-12-16T05:55:09.918Z"
+  }
+]
